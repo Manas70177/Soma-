@@ -2,7 +2,7 @@
 
 > Personalized workout + diet plans in under 60 seconds. No signup. No backend. Deploys free in 5 minutes.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOURUSERNAME/soma)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/manas70177/soma)
 ![DPDPA 2023 Compliant](https://img.shields.io/badge/DPDPA%202023-Compliant-00C87A?style=flat-square)
 ![Zero Cost](https://img.shields.io/badge/Hosting%20Cost-₹0-00C87A?style=flat-square)
 ![Static](https://img.shields.io/badge/Type-Static%20HTML-blue?style=flat-square)
